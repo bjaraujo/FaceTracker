@@ -1,0 +1,1 @@
+PATH=$(OpenCV_DIR)\x86\vc14\bin;%PATH%
